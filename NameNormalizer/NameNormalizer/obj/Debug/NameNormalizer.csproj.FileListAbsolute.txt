@@ -1,0 +1,7 @@
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\bin\Debug\NameNormalizer.exe.config
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\bin\Debug\NameNormalizer.exe
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\bin\Debug\NameNormalizer.pdb
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\obj\Debug\NameNormalizer.csproj.AssemblyReference.cache
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\obj\Debug\NameNormalizer.csproj.CoreCompileInputs.cache
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\obj\Debug\NameNormalizer.exe
+D:\Learn_Programming\Tests\ODDIN\NameNormalizer\NameNormalizer\obj\Debug\NameNormalizer.pdb
